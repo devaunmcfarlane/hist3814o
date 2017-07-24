@@ -1,0 +1,501 @@
+{
+  "key": "oop.debates_CDC1206_04"
+}
+{
+  "key": "oop.debates_SOC1207_01"
+}
+{
+  "key": "oop.debates_SOC1206_01"
+}
+{
+  "key": "oop.debates_SOC1205_01"
+}
+{
+  "key": "oop.debates_SDC1205_01"
+}
+{
+  "key": "oop.debates_SDC1206_01"
+}
+{
+  "key": "oop.debates_SDC1207_01"
+}
+{
+  "key": "manitobia.023-LMB-1914-04-15-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LMB-1916-02-02-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LMB-1917-08-08-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LPR-1916-09-21-001-SINGLE"
+}
+{
+  "key": "oop.HOC_1206_52_01"
+}
+{
+  "key": "oop.debates_HOC1207_02"
+}
+{
+  "key": "oop.debates_HOC1301_01"
+}
+{
+  "key": "oop.debates_HOC1207_03"
+}
+{
+  "key": "oop.debates_HOC1206_02"
+}
+{
+  "key": "oop.debates_HOC1206_01"
+}
+{
+  "key": "oop.debates_HOC1205_01"
+}
+{
+  "key": "oop.debates_HOC1206_04"
+}
+{
+  "key": "oop.debates_CDC1205_01"
+}
+{
+  "key": "oop.debates_CDC1207_01"
+}
+{
+  "key": "oop.debates_CDC1206_01"
+}
+{
+  "key": "oop.debates_CDC1207_02"
+}
+{
+  "key": "oop.debates_CDC1206_02"
+}
+{
+  "key": "oop.debates_CDC1301_01"
+}
+{
+  "key": "oop.debates_CDC1207_03"
+}
+{
+  "key": "oop.CDC_1206_52_01"
+}
+{
+  "key": "oocihm.8_06830_23"
+}
+{
+  "key": "oocihm.8_06809_20"
+}
+{
+  "key": "oocihm.8_06836_11"
+}
+{
+  "key": "oocihm.8_06911_514"
+}
+{
+  "key": "oocihm.8_06911_506"
+}
+{
+  "key": "oocihm.8_06911_455"
+}
+{
+  "key": "oocihm.8_06774_29"
+}
+{
+  "key": "oocihm.8_06830_17"
+}
+{
+  "key": "oocihm.8_06830_22"
+}
+{
+  "key": "oocihm.8_06830_14"
+}
+{
+  "key": "oocihm.8_06830_16"
+}
+{
+  "key": "oocihm.8_06854_7"
+}
+{
+  "key": "oocihm.8_06854_5"
+}
+{
+  "key": "oocihm.8_06845_51"
+}
+{
+  "key": "oocihm.8_06922_81"
+}
+{
+  "key": "oocihm.8_06920_11"
+}
+{
+  "key": "oocihm.80809"
+}
+{
+  "key": "oocihm.8_06879_48"
+}
+{
+  "key": "oocihm.8_06868_103"
+}
+{
+  "key": "oocihm.8_06867_117"
+}
+{
+  "key": "oocihm.8_06867_124"
+}
+{
+  "key": "oocihm.8_06911_512"
+}
+{
+  "key": "oocihm.8_06911_460"
+}
+{
+  "key": "oocihm.8_06911_406"
+}
+{
+  "key": "oocihm.8_06911_408"
+}
+{
+  "key": "oocihm.8_06911_402"
+}
+{
+  "key": "oocihm.8_06911_451"
+}
+{
+  "key": "oocihm.8_06912_193"
+}
+{
+  "key": "oocihm.8_06912_196"
+}
+{
+  "key": "oocihm.8_06912_228"
+}
+{
+  "key": "oocihm.85305"
+}
+{
+  "key": "oocihm.8_06770_101"
+}
+{
+  "key": "oocihm.8_06770_95"
+}
+{
+  "key": "oocihm.8_06877_314"
+}
+{
+  "key": "oocihm.8_06877_324"
+}
+{
+  "key": "oocihm.8_06877_346"
+}
+{
+  "key": "oocihm.8_06877_307"
+}
+{
+  "key": "oocihm.8_05199_534"
+}
+{
+  "key": "oocihm.8_05199_539"
+}
+{
+  "key": "oocihm.80523"
+}
+{
+  "key": "oocihm.8_06251_281"
+}
+{
+  "key": "oocihm.8_06251_264"
+}
+{
+  "key": "oocihm.8_06569_1802"
+}
+{
+  "key": "oocihm.8_06569_1729"
+}
+{
+  "key": "otu.historyofmontene00stevuoft"
+}
+{
+  "key": "otu.herotaleslegends00petr"
+}
+{
+  "key": "oocihm.8_06619_1628"
+}
+{
+  "key": "otu.luckthirteen00gorduoft"
+}
+{
+  "key": "oocihm.8_06619_1423"
+}
+{
+  "key": "oocihm.8_06619_1405"
+}
+{
+  "key": "oocihm.8_06619_1461"
+}
+{
+  "key": "oocihm.8_06569_1856"
+}
+{
+  "key": "manitobia.023-PWR-1916-01-19-001-SINGLE"
+}
+{
+  "key": "oocihm.8_04117_577"
+}
+{
+  "key": "manitobia.023-PWR-1914-11-11-001-SINGLE"
+}
+{
+  "key": "manitobia.023-MDT-1914-07-30-001-SINGLE"
+}
+{
+  "key": "manitobia.023-MDT-1917-05-03-001-SINGLE"
+}
+{
+  "key": "manitobia.023-MDT-1915-11-04-001-SINGLE"
+}
+{
+  "key": "manitobia.023-MDT-1915-08-26-001-SINGLE"
+}
+{
+  "key": "oocihm.71612"
+}
+{
+  "key": "oocihm.66635"
+}
+{
+  "key": "oocihm.8_06251_276"
+}
+{
+  "key": "oocihm.8_06251_278"
+}
+{
+  "key": "oocihm.8_06251_299"
+}
+{
+  "key": "oocihm.80648"
+}
+{
+  "key": "oocihm.8_06349_97"
+}
+{
+  "key": "oocihm.8_06349_94"
+}
+{
+  "key": "otu.auxpaysbalkaniqu00muze"
+}
+{
+  "key": "oocihm.8_04906_316"
+}
+{
+  "key": "manitobia.023-TVC-1915-08-13-001-SINGLE"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.1936"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.1017"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.1045"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.105"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.2327"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.266"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.28"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.1744"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.1320"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.2174"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.2201"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.3015"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.3024"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.3148"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.3157"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.326"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.3280"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.3454"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.1713"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.1722"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.1882"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.2748"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.769"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.491"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.660"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.1581"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.885"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.941"
+}
+{
+  "key": "bvau.ubc_bchn.hedley.1050"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.37"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.401"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.561"
+}
+{
+  "key": "bvau.ubc_bchn.grandforks.593"
+}
+{
+  "key": "bvau.ubc_bchn.bellacoo.1446"
+}
+{
+  "key": "bvau.ubc_bchn.abpost.1924"
+}
+{
+  "key": "bvau.ubc_bchn.abpost.2078"
+}
+{
+  "key": "bvau.ubc_bchn.abpost.1489"
+}
+{
+  "key": "bvau.ubc_bchn.abpost.1511"
+}
+{
+  "key": "bvau.ubc_bchn.abpost.2750"
+}
+{
+  "key": "bvau.ubc_bchn.abpost.1033"
+}
+{
+  "key": "bvau.ubc_bchn.bellacoo.462"
+}
+{
+  "key": "bvau.ubc_bchn.bellacoo.497"
+}
+{
+  "key": "bvau.ubc_bchn.bellacoo.532"
+}
+{
+  "key": "bvau.ubc_bchn.bellacoo.738"
+}
+{
+  "key": "bvau.ubc_bchn.bellacoo.187"
+}
+{
+  "key": "bvau.ubc_bchn.bellacoo.1365"
+}
+{
+  "key": "bvau.ubc_bchn.bellacoo.1436"
+}
+{
+  "key": "bvau.ubc_bchn.phoenixpione.2430"
+}
+{
+  "key": "bvau.ubc_bchn.phoenixpione.581"
+}
+{
+  "key": "manitobia.023-LLT-1915-10-19-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LLT-1914-12-22-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LLT-1915-06-01-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LLT-1914-08-25-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LLT-1914-09-01-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LLT-1914-09-15-001-SINGLE"
+}
+{
+  "key": "manitobia.023-LLT-1916-12-13-001-SINGLE"
+}
+{
+  "key": "bvau.ubc_bchn.phoenixpione.3630"
+}
+{
+  "key": "bvau.ubc_bchn.phoenixpione.3883"
+}
+{
+  "key": "bvau.ubc_bchn.phoenixpione.2040"
+}
+{
+  "key": "bvau.ubc_bchn.phoenixpione.1274"
+}
+{
+  "key": "bvau.ubc_bchn.phoenixpione.1892"
+}
+{
+  "key": "oocihm.76024"
+}
+{
+  "key": "oocihm.75418"
+}
+{
+  "key": "oocihm.74543"
+}
+{
+  "key": "oocihm.75347"
+}
+{
+  "key": "oocihm.76133"
+}
+{
+  "key": "oocihm.75122"
+}
+{
+  "key": "oocihm.73604"
+}
+{
+  "key": "oocihm.79605"
+}
+{
+  "key": "oocihm.8_04117_560"
+}
